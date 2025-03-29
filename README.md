@@ -45,5 +45,7 @@ Program dimulai dengan menampilkan form yang berisikan nim, nama, jenis kelamin,
 -  Jika user mengkilk delete, maka data akan terhapus pada tabel.
 
 ## DOKUMENTASI
+https://github.com/user-attachments/assets/80ed802e-9501-4f9e-92fd-71e730416d68
+
 
 
