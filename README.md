@@ -38,8 +38,8 @@ Program dimulai dengan menampilkan form yang berisikan nim, nama, jenis kelamin,
 - Ketika user mengisi form tersebut kemudian mengklik add maka data akan ditambahkan dan dimunculkan pada tabel, jika user tidak melengkapi semua data pada form, maka akan muncul pesan "Semua kolom harus diisi!"
 - Ketika user mengisi NIM yang sama pada database atau sudah terdaftar dalam database maka akan menampilkan pesan "NIM sudah ada!".
 - Ketika user sudah mengisi form kemudian mengklik cancel maka data pada form akan hilang, atau mereset ke semua form pengisian (menjadi kosong)
-- User dapat memilih jenis kelamin yaitu laki-laki dan perempuan, dalam bentuk dropdown
-- User dapat memilih status antara aktif, cuti atau lulus, dalam bentuk radio button
+- User dapat memilih jenis kelamin yaitu laki-laki dan perempuan, dalam bentuk dropdown.
+- User dapat memilih status antara aktif, cuti atau lulus, untuk antisipasi data kosong maka default diisi dengan 'Aktif', dan form ini dalam bentuk radio button.
 -  Jika salah satu row pada tabel diklik maka dalam form akan menampikan datanya, kemudian muncul button seperti update dan delete.
 -  Jika user mengubah data pada form dan mengklik update, maka data akan terupdate dan ditampikan pada tabel, jika user tidak melengkapi semua data pada form, maka akan muncul pesan "Semua kolom harus diisi!".
 -  Jika user mengkilk delete, maka data akan terhapus pada tabel.
